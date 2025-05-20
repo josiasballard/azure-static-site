@@ -3,8 +3,7 @@
 This project demonstrates how to host a static website using **Microsoft Azure Blob Storage**.
 
 ## 🌐 Live Demo
-Check out the live version here: [https://josiascloudweb.z19.web.core.windows.net/](https://<your-endpoint-url>)  
-_(Replace this with your actual Azure static site URL)_
+Check out the live version here: [https://josiascloudweb.z19.web.core.windows.net/](https://<your-endpoint-url>)
 
 ## 🛠️ Tools Used
 - **Azure Blob Storage**
